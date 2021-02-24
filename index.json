@@ -1,3 +1,16 @@
 [
-  {"fw_binary_url":"https://raw.githubusercontent.com/bla2020/test001/main/ABCD-2652-00000002.zigbee","fileVersion": 2,"fw_filesize":254226,"fw_image_type":9810,"fw_manufacturer_id":43981}
+    {
+        "fileVersion": 2,
+        "fileSize": 257322,
+        "manufacturerCode": 43981,
+        "imageType": 259,
+        "url": "https://raw.githubusercontent.com/bla2020/test001/main/ABCD-0103-00000002.zigbee"
+    },
+    {
+        "fileVersion": 2,
+        "fileSize": 255714,
+        "manufacturerCode": 43981,
+        "imageType": 256,
+        "url": "https://raw.githubusercontent.com/bla2020/test001/main/ABCD-0100-00000002.zigbee"
+    }
 ]
