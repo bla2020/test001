@@ -4,7 +4,7 @@
         "fileSize": 255914,
         "manufacturerCode": 43981,
         "imageType": 256,
-        "url": "https://raw.githubusercontent.com/bla2020/test001/main/ABCD-0100-00000003.zigbee",
+        "url": "https://raw.githubusercontent.com/bla2020/test001/main/ABCD-0100-00000003.zigbee"
    
     },
     {
@@ -12,16 +12,14 @@
         "fileSize": 254874,
         "manufacturerCode": 43981,
         "imageType": 257,
-        "url": "https://raw.githubusercontent.com/bla2020/test001/main/ABCD-0101-00000003.zigbee",
-        "path": "images/ABCD/ABCD-0101-00000003.zigbee"
+        "url": "https://raw.githubusercontent.com/bla2020/test001/main/ABCD-0101-00000003.zigbee"
     },
     {
         "fileVersion": 3,
         "fileSize": 254450,
         "manufacturerCode": 43981,
         "imageType": 258,
-        "url": "https://raw.githubusercontent.com/bla2020/test001/main/ABCD-0102-00000003.zigbee",
-        "path": "images/ABCD/ABCD-0102-00000003.zigbee"
+        "url": "https://raw.githubusercontent.com/bla2020/test001/main/ABCD-0102-00000003.zigbee"
     },
     {
         "fileVersion": 3,
@@ -29,6 +27,6 @@
         "manufacturerCode": 43981,
         "imageType": 259,
         "url": "https://raw.githubusercontent.com/bla2020/test001/main/ABCD-0103-00000003.zigbee",
-        "path": "images/ABCD/ABCD-0103-00000003.zigbee"
+
     }
 ]
